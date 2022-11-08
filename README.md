@@ -628,8 +628,9 @@ Getting feedback early on is crucial for your SaaS business. Here's a list of fe
 - [Tawk.to](https://www.tawk.to): Message customers directly on your website — free plan
 - [Crisp](https://crisp.chat/en/): Live chat + ticket handling software — free plan
 - [Intercom](https://www.intercom.com/): The most popular live chat software for customer engagement & support — complex pricing
+- [Tiledesk](https://github.com/nicolas-racchi/SaaS4Devs): Live chat + Chatbots for omnichannel customer service & conversational commerce - free plan
 - [Letterbase](https://letterbase.io): Simple Live chat for small businesses. Simple to use & privacy friendly — 9$/mo
-- [Beamdock](https://beamdock.com/): Beamdock helps you gather features requests, schedule interview session and notify customers easily - free plan.
+- [Beamdock](https://beamdock.com/): Beamdock helps you gather features requests, schedule interview session and notify customers easily - free plan
 - [Customerly](https://www.customerly.io/): Live Chat & Marketing automation - free plan
 - [Upvoty](https://www.upvoty.com): Instant feedback, changelog & dashboard - starts at 15$/mo
 - [Noora](https://noorahq.com): centralized product feedback solution to collect and act on feedback from customers — starts at 9$/mo
