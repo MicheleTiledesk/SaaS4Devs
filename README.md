@@ -1,9 +1,3 @@
-> This document is a curation of useful resources & advice about the Software as a Service business, especially tailored for developers.
-
-NOTE: This repo is no longer being maintained, but you are free to fork and/or contribute to it.
-
----
-
 # Table of Contents
 
 - [💫 Core Knowledge](#-core-knowledge)
@@ -938,24 +932,19 @@ Did you think this document was long enough? Not even close. I’ve barely scrat
 
 # 👀 Credits
 
-_Made by [Nicolas Racchi](https://www.nicolasracchi.com)._
+_Thanks to [Nicolas Racchi](https://www.nicolasracchi.com)._
 
-I've collected all this information over time. I'm trying my best to credit every single author so you can find more resources and research individual topics by yourself. if by any chance I forget to credit the authors correctly, please let me know by sending an email to [nicksmavic@gmail.com](mailto:nicksmavic@gmail.com).
+I've started forking its [repository](https://github.com/nicolas-racchi/SaaS4Devs) where he collected a lot of information over time.
 
 ---
 
 # 🎳 Contributions
 
-If you'd like to add something to this document, please do by contacting me by email.
-Feel free to send PRs here on GitHub too.
-
-Email: [nicksmavic@gmail.com](mailto:nicksmavic@gmail.com)
+If you'd like to add something to this document, feel free to send PRs here on GitHub too.
 
 ---
 
 # 🗺 Roadmap
-
-NOTE: This repo is no longer being maintained, but here are some useful areas to look into if you wish to expand or contribute to this resource:
 
 - Add Slack groups of prolific SaaS communities
 - Add a Twitter List of micro-SaaS founders & makers
